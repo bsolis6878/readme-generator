@@ -34,19 +34,6 @@ const questions = () => {
         },
         {
             type: 'input',
-            name: 'contents',
-            message: 'Provide a table of contents.',
-            validate: contentsInput => {
-                if (contentsInput) {
-                    return true;
-                } else {
-                    console.log('Please enter a valid table of contents.');
-                    return false;
-                }
-            }
-        },
-        {
-            type: 'input',
             name: 'installation',
             message: 'Provide steps for installation.',
             validate: installationInput => {
