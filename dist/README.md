@@ -1,9 +1,9 @@
 # test
 
-## Description
+### Description
 test
 
-## Table of Contents
+### Table of Contents
 1. [Installation](#installation)
 2. [Usage](#usage)
 3. [License](#license)
@@ -12,26 +12,26 @@ test
 6. [Questions](#questions)
 
 <a name="installation"></a>
-## Steps for Installation
+### Steps for Installation
 test
 
 <a name="usage"></a>
-## Usage Information
+### Usage Information
 test
 
 <a name="license"></a>
-## License
+### License
 License used for this project: None
 
 <a name="contribution"></a>
-## Contribution Guidelines
+### Contribution Guidelines
 test
 
 <a name="testing"></a>
-## Testing Instructions
+### Testing Instructions
 test
 
 <a name="questions"></a>
-## Questions
-To view my other projects, feel free to check out my GitHub profile at test.
-If you have any questions, you can reach me at test.
+### Questions
+To view my other projects, click on <a href="https://github.com/bsolis6878" target="_blank">this link here</a> to view my GitHub profile.</br>
+If you have any questions regarding the application, send me an email at no.
