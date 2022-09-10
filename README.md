@@ -34,7 +34,6 @@ N/A
 <a name="questions"></a>
 ### Questions
 To view my other projects, click on <a href="https://github.com/bsolis6878">this link here</a> to view my GitHub profile.</br>
-If you have any questions regarding the application, send me an email at fake@email.com.
-Demonstration of functionality below:
-
+If you have any questions regarding the application, send me an email at fake@email.com.</br>
+Download a demonstration of the functionality below:</br>
 [Walkthrough](Walkthrough.webm)
