@@ -1,7 +1,7 @@
-# test
+# Readme Generator
 
 ### Description
-test
+Generates a Readme
 
 ### Table of Contents
 1. [Installation](#installation)
@@ -13,11 +13,11 @@ test
 
 <a name="installation"></a>
 ### Steps for Installation
-test
+Clone repository > download node.js > run npm install > cd into directory and use node index.js > answer questions > check dist folder for generated readme
 
 <a name="usage"></a>
 ### Usage Information
-test
+Free to use for all to generate readme's for any project
 
 <a name="license"></a>
 ### License
@@ -25,13 +25,13 @@ License used for this project: None
 
 <a name="contribution"></a>
 ### Contribution Guidelines
-test
+Create an issue on the repository if any issues are determined.
 
 <a name="testing"></a>
 ### Testing Instructions
-test
+N/A
 
 <a name="questions"></a>
 ### Questions
-To view my other projects, click on <a href="https://github.com/bsolis6878" target="_blank">this link here</a> to view my GitHub profile.</br>
-If you have any questions regarding the application, send me an email at no.
+To view my other projects, click on <a href="https://github.com/bsolis6878">this link here</a> to view my GitHub profile.</br>
+If you have any questions regarding the application, send me an email at fake@email.com.
